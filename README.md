@@ -1,1 +1,2 @@
 # teller-2
+me di cuenta de que no solo se trata de que el programa funcione, sino de que todo esté bien pensado y organizado.Aprendí que cuando las entidades tienen sentido y están relacionadas de manera lógica (por ejemplo, que una mascota tenga un dueño), el código resulta más fácil de entender y de mantener.En resumen, entendí que diseñar las clases y sus relaciones no es algo que se hace solo por obligación, sino que realmente sirve para que el proyecto quede más claro. gracias 
